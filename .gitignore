@@ -1,0 +1,23 @@
+# Ignore files
+Seychelles.ipynb
+Jason2-py/test/test_data/current_dataEA.npy
+Jason2-py/test/test_data/current_dataEA.npy
+Jason2-py/test/test_data/current_dataSD.npy
+Jason2-py/test/test_data/current_dataSA.npy
+Jason2-py/test/test_data/eigenvectors/modesEA1.csv
+Jason2-py/test/test_data/eigenvectors/modesEA2.csv
+Jason2-py/test/test_data/eigenvectors/EA1.csv
+Jason2-py/test/test_data/eigenvectors/EA2.csv
+Jason2-py/test/test_data/EA_raw.npy
+__pycache__/
+.ipynb_checkpoints/
+data/
+ECCOv4-py/
+Jason2-py/__pycache__/
+Jason2-py/.ipynb_checkpoints/
+Jason2-py/Jason2_py/__pycache__/
+Jason2-py/Jason2_py/.ipynb_checkpoints/
+Jason2-py/test/__pycache__/
+Jason2-py/test/.ipynb_checkpoints/
+Jason2-py/test/test_data/.ipynb_checkpoints/
+Jason2-py/test/dedalus/.ipynb_checkpoints/
