@@ -2,8 +2,8 @@
 Seychelles.ipynb
 Jason2-py/test/test_data/current_dataEA.npy
 Jason2-py/test/test_data/current_dataEA.npy
-Jason2-py/test/test_data/current_dataSA.csv
-Jason2-py/test/test_data/current_dataSD.csv
+#Jason2-py/test/test_data/current_dataSA.csv
+#Jason2-py/test/test_data/current_dataSD.csv
 Jason2-py/test/test_data/eigenvectors/modesEA1.csv
 Jason2-py/test/test_data/eigenvectors/modesEA2.csv
 Jason2-py/test/test_data/eigenvectors/EA1.csv
