@@ -1,9 +1,14 @@
 # Ignore files
 Seychelles.ipynb
+<<<<<<< HEAD
 Jason2-py/test/test_data/current_dataEA.npy
 Jason2-py/test/test_data/current_dataEA.npy
 #Jason2-py/test/test_data/current_dataSA.csv
 #Jason2-py/test/test_data/current_dataSD.csv
+=======
+Jason2-py/test/download_csv.py
+Jason2-py/test/test_data/current_dataEA.npy
+>>>>>>> 457cbaad21998412c91672d72e4a0b4d880b1d2f
 Jason2-py/test/test_data/eigenvectors/modesEA1.csv
 Jason2-py/test/test_data/eigenvectors/modesEA2.csv
 Jason2-py/test/test_data/eigenvectors/EA1.csv

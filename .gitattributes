@@ -1,3 +1,6 @@
 *.npy filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 .csv filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 457cbaad21998412c91672d72e4a0b4d880b1d2f
 *.csv filter=lfs diff=lfs merge=lfs -text
